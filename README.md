@@ -1,5 +1,7 @@
 # Daily-Journal-Template
 Local server activated Daily journal blog with 3 pages and a option to composite new blog. (version without database)
+
+
 *(Please run it locally or go to the one that is hosted and with database at : https://daily-blog-ua4j.onrender.com)*
 
 Step by step how i start and launch my app.js:
